@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/306186684?s=200&v=4" alt="Itqan Web Logo" width="120" height="120" />
 
-  # Itqan Web Client (الواجهة الأمامية) 💻
+  # quran halaqat management (الواجهة الأمامية) 💻
 
   **The modern, accessible, and responsive frontend for the Itqan Mosque Management Platform.**
 
@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 Overview
-`itqan-web` is the client-side application of the Itqan Ecosystem. It provides dedicated, role-based dashboards for Super Admins, Mosque Managers, Teachers, Parents, and Students. 
+`quran-halaqat-management-web` is the client-side application of the Fajr Ecosystem. It provides dedicated, role-based dashboards for Super Admins, Mosque Managers, Teachers, Parents, and Students. 
 
 Engineered with **Next.js (App Router)**, the platform heavily utilizes **React Server Components (RSC)** for optimal performance, SEO, and minimal client-side JavaScript bundling.
 
